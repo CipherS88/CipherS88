@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CipherS88
+- 👀 I’m interested in Python, HTML, C#, JavaScript, CSS, game development in Unity and UE5, and solving problems with Python.
+- 🌱 I’m currently learning more about game development and advanced Python techniques.
+- 💞️ I’m looking to collaborate on game development projects and open-source software.
+- 📫 How to reach me: @i51x in Discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love cats, hitting the gym, and enjoying a good cup of coffee!
