@@ -5,7 +5,7 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-Data_Queen-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data_GEEK-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Gold_Rank-E6B91E?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Vibes](https://img.shields.io/badge/Vibes-Immaculate-pink?style=for-the-badge)
 
