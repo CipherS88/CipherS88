@@ -53,5 +53,5 @@ I'm a passionate developer who loves turning logic into something visual and fun
 
 <br>
 <div align="center">
-  <i>Thanks for visiting! Let's build something cute.</i> 💖
+  <i>Thanks for visiting! Let's build something </i> 💖
 </div>
