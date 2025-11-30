@@ -25,9 +25,6 @@ I'm a passionate developer who loves turning logic into something visual and fun
 
 ---
 
-## 🛠️ The Tech Stack
-
-I've customized these badges to match your specific skill level and vibe!
 
 ### 📊 Data & Logic
 ![Python](https://img.shields.io/badge/Python-Expert-FFC0CB?style=for-the-badge&logo=python&logoColor=black)
