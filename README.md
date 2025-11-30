@@ -10,8 +10,5 @@
 </div>
 
 
-<img height ="50em" src= "https://github.com/CipherS88/CipherS88/blob/main/python-f70befd824.svg"/> hacker rank  GOLD 6 START
+hacker rank  GOLD 6 START
 
-```
-https://www.hackerrank.com/profile/aad_aljuaid
-```
