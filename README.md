@@ -39,15 +39,12 @@ I'm a passionate developer who loves turning logic into something visual and fun
 ![UE5](https://img.shields.io/badge/Unreal-Learning-333333?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CipherS88&count_private=true&show_icons=true&theme=ambient_gradient&hide_border=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherS88&theme=ambient_gradient&layout=compact&langs_count=6&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CipherS88&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherS88&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" height="160em" />
 </div>
-<br>
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CipherS88&theme=ambient_gradient&column=7&no-frame=true" height="160em" />
 </div>
 
