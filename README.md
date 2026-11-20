@@ -18,10 +18,6 @@
 ---
 
 ## 🌫️ The static
-
-I write code to quiet the noise — turning logic into something I can actually see.
-Some of it is data, some of it is games, and one of them measures how fast a car was going.
-
 - **Studying:** Computer Science & Computer Engineering at Al-Fayhaa Private College
 - **Currently:** computer vision, game dev loops, and too many Baloot prototypes
 - **Fuel:** caffeine ☕, heavy weights 💪, and staring at the ceiling
